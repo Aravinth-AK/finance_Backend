@@ -1,0 +1,14 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "D:\\projects\\Base Service code\\api-logs\\.ee8c7cd63cf81b549d5d5ffd9f25df4b5e54962d-audit.json",
+    "files": [
+        {
+            "date": 1612241793747,
+            "name": "D:\\projects\\Base Service code\\api-logs\\ApiLogs-02-02-2021.log",
+            "hash": "4a0cadd2a31df8a976066713f154edb6"
+        }
+    ]
+}
